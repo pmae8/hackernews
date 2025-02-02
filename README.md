@@ -7,7 +7,7 @@ Hacker News
 ## Installation Steps
 1. Clone the repository using the project's Git URL.
    ```sh
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/pmae8/hackernews
    ```
 2. Navigate to the project directory.
    ```sh
